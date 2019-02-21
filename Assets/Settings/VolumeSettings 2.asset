@@ -18,6 +18,7 @@ MonoBehaviour:
   - {fileID: 114485892775062070}
   - {fileID: 114290374276055848}
   - {fileID: 114537362742325830}
+  - {fileID: 114850992038926590}
 --- !u!114 &114290374276055848
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -208,6 +209,27 @@ MonoBehaviour:
   fogType:
     m_OverrideState: 1
     m_Value: 3
+--- !u!114 &114850992038926590
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f034cba68ab55e046ae1445a42f18c0e, type: 3}
+  m_Name: IndirectLightingController
+  m_EditorClassIdentifier: 
+  active: 0
+  indirectSpecularIntensity:
+    m_OverrideState: 0
+    m_Value: 1
+    min: 0
+  indirectDiffuseIntensity:
+    m_OverrideState: 0
+    m_Value: 1
+    min: 0
 --- !u!114 &114921026308212158
 MonoBehaviour:
   m_ObjectHideFlags: 3
