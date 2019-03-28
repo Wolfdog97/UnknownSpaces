@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Village.unity
     guid: 8e389d5f7b8483b40b06f9bcfca0b2a5
+  - enabled: 1
+    path: Assets/Scenes/LookingThroughTheBox.unity
+    guid: ed7d7c48a9fb5a244a4911a5eb85e018
   m_configObjects: {}
