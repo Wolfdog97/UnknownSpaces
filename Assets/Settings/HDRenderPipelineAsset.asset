@@ -151,7 +151,7 @@ MonoBehaviour:
     supportShadowMask: 1
     supportSSR: 0
     supportSSAO: 0
-    supportSubsurfaceScattering: 0
+    supportSubsurfaceScattering: 1
     increaseSssSampleCount: 0
     supportVolumetrics: 1
     increaseResolutionOfVolumetrics: 1
